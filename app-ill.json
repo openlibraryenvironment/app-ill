@@ -1,0 +1,20 @@
+{
+
+  "name": "app-ill",
+  "version": "1.0.0",
+  "description": "ILL Application",
+  "platform": "ILL",
+  "dependencies": [
+    { "name": "app-platform-complete", "version": "2.1.0-SNAPSHOT" }
+	],
+  "modules": [
+    { "name": "mod-ill", "version": "latest" }
+	],
+  "uiModules": [
+    { "name": "ill-ui",          "version": "latest" },
+    { "name": "ill-directory",   "version": "latest" },
+    { "name": "ill-update",      "version": "latest" },
+    { "name": "ill-supply",      "version": "latest" },
+    { "name": "ill-request",     "version": "latest" }
+	]
+}
