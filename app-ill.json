@@ -12,9 +12,6 @@
 	],
   "uiModules": [
     { "name": "ill-ui",          "version": "latest" },
-    { "name": "ill-directory",   "version": "latest" },
-    { "name": "ill-update",      "version": "latest" },
-    { "name": "ill-supply",      "version": "latest" },
-    { "name": "ill-request",     "version": "latest" }
-	]
+    { "name": "ill-directory",   "version": "latest" }
+  ]
 }
